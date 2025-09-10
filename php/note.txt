@@ -1,0 +1,10 @@
+cài môi trường cho php
+
+
+chạy local
+php -S localhost:8000
+http://localhost:8000
+
+chạy lan
+php -S 0.0.0.0:8000
+http://192.168.x.x:8000
